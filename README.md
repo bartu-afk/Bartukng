@@ -1,4 +1,4 @@
-# dorukmacdo
+# Bartukng
 
 - 🔭 My Goals: I would go to the science high school
 - 🥇 My Favorite Programming Languages : Java 
